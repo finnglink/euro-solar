@@ -3,7 +3,7 @@
 A very simple DIY euro rack module (16HP, Intellijel 1U format) to interact with the sun. Inspired by many other manufacturers. 
 Very straightforward build, with just two parts and a 3D print ;)
 
->!![euro-solar](images/IMG_6203.jpg) No image yet lol!<
+<!-- [euro-solar](images/IMG_6203.jpg) No image yet lol -->
 
 **Possible future variations**
 - 3U version

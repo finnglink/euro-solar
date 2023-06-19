@@ -10,7 +10,7 @@ Very straightforward build, with just two parts and a 3D print ;)
 - 1U version with smaller cells
 
 If you're having any problems / difficulties, please let me know:
-[Instagram](http://instagram.com/finnglink/) // [Discord](http://discordapp.com/user/Finn#4962)
+[Instagram](http://instagram.com/finnglink/) // [Discord](http://discordapp.com/users/finnglink)
 
 **Disclaimer!:**
 I'm not an electrical engineer, I'm just doing this for fun. Please proceed at your own risk :)
@@ -18,7 +18,7 @@ I'm not an electrical engineer, I'm just doing this for fun. Please proceed at y
 # What You'll Need
 
 - The 3D printed [panel](230619_FG_Euro-Solar.stl). **Important:** Print this with the indent for the panel TOWARDS the build plate, with supports. 
-- One [53x30mm 5V solar cell](https://www.amazon.de/dp/B09YH5SFQC?psc=1&ref=ppx_yo2ov_dt_b_product_details)). 
+- One [53x30mm 5V solar cell](https://www.amazon.de/dp/B09YH5SFQC?psc=1&ref=ppx_yo2ov_dt_b_product_details). 
 - 1x Thonkiconn + washer, I'm using a Befaco Bananut for +1 style point.
 - Depending on your exact type of solar cell, you might need some additional cable. The linked ones work as is.
 
